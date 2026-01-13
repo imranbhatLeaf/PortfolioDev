@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+  font-family: font1;
+  src: url(./fonts/font1.ttf);
+}
+body{
+  font-family: font1;
+  overflow-x: hidden;
+}
+.dark {
+  background: #000;
+  color: white;
+}
