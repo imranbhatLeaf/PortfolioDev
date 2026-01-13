@@ -14,6 +14,7 @@ const App = () => {
         <div className='mt-20'>
     <Routes>
       <Route path='/' element={<Home/>}/>
+      <Route path='/PortfolioDev' element={<Home/>}/>
       <Route path='/home' element={<Home/>}/>
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/about' element={<About/>}/>

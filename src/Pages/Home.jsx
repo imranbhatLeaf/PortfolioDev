@@ -11,7 +11,7 @@ const Home = () => {
     
     
   return (
-      <div className={`h-screen w-screen ${theme}`}>
+      <div className={`h-screen  w-screen ${theme}`}>
     <Hero/>
     </div>
   )

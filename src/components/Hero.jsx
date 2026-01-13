@@ -1,6 +1,7 @@
 import React from 'react'
 import ImageSlider from './SlideImages'
 import { Link } from 'react-router-dom'
+import img1 from '../assets/dev.jpg'
 
 
 const Hero = () => {

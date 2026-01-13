@@ -1,10 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
-
+import img1 from '../assets/dev1.png'
+import img2 from '../assets/dev2.png'
 const images = [
- "dev2.png",
- "dev21.png"
-
+  img1,
+  img2
 ];
 
 export default function ImageSlider() {
